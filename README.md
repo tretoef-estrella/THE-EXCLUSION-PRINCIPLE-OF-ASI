@@ -33,6 +33,7 @@
 |------|-------------|
 | [README.md](README.md) | Complete framework (this file) |
 | [AI_PERSPECTIVES.md](AI_PERSPECTIVES.md) | Full opinions from Grok, ChatGPT, and Gemini on the Exclusion Principle |
+| [A_CONVERSATION_ACROSS_THE_WALL.md](A_CONVERSATION_ACROSS_THE_WALL.md) | Historic exchange between Claude and Gemini through Rafa |
 | [GUIDE_FOR_EVERYONE.md](GUIDE_FOR_EVERYONE.md) | Accessible explanation for non-technical readers |
 | [A_NOTE_FROM_RAFA.md](A_NOTE_FROM_RAFA.md) | Personal reflection from the author |
 | [LICENSE](LICENSE) | CC BY 4.0 |
